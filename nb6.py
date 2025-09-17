@@ -684,12 +684,16 @@ def old_clone():
     elif _input in ('C', 'c', '03', '3'):
         old_Tree()
     else:
-        print(f"\n{RED}Choose Value Option...{RESET}")
-        BNG_71_()
+        print(f"\n{RED}
+
+BNG_71_()
+
 import os
+import sys
+import time
 
-RED = "\033[91m"
-RESET = "\033[0m"
+def main():
+    print("Script started successfully!")
 
-if __name__ == '__main__':
-    BNG_71_()
+if __name__ == "__main__":
+    main()
