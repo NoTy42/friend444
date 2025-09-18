@@ -228,7 +228,8 @@ def old_clone():
         BNG_71_()
 
 if __name__ == '__main__':
-    BNG_71_()import os
+    BNG_71_() 
+    import os 
 import random
 import time
 from concurrent.futures import ThreadPoolExecutor
