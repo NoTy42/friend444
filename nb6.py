@@ -686,7 +686,11 @@ def old_clone():
     else:
         print(f"\n{RED}Choose Value Option...{RESET}")
         BNG_71_()
-        
+     
+    import os
+    import sys
+    import time
+   
 
 if __name__ == '__main__':
     import os
